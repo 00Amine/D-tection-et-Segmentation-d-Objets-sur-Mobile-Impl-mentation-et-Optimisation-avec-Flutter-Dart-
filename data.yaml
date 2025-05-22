@@ -1,0 +1,5 @@
+path: C:\Users\moham\PycharmProjects\projet_pfa/Datasets/HelmetAug
+train: C:\Users\moham\PycharmProjects\projet_pfa/Datasets/HelmetAug/train/images
+val: C:\Users\moham\PycharmProjects\projet_pfa/Datasets/HelmetAug/val/images
+names: ["With Helmet", "Without Helmet" ,"Rider" , "Plate Nº"]
+nc: 4
